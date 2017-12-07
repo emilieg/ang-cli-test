@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    // "build.prod": "ng build --aot --prod --progress false --base-href \"https://emilieg.github.io/ang-cli-test/\""
+    "build.prod": "ng build --aot --prod --progress false --base-href \"https://emilieg.github.io/ang-cli-test/\""
   },
   "private": true,
   "dependencies": {
